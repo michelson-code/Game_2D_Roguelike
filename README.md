@@ -54,10 +54,11 @@ O objetivo é coletar o máximo de moedas possível e matar todos os aliens para
 ### Pré-requisitos
 
 Certifique-se de ter o Python instalado.  
-Recomenda-se a instalação da biblioteca **pgzero**:
+Recomenda-se a instalação da biblioteca **pgzero, pygame**:
 
 ```
 pip install pgzero
+pip install pygame
 ```
 
 ### Executando o Jogo
